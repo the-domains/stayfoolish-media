@@ -1,0 +1,28 @@
+name: StayFoolish Media
+favicon: null
+layout_spectrum: 0.2246140141505748
+typography_spectrum: 0.839187617180869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3394977622665465
+  lightness: 0.2860160896088928
+  saturation: 0.8670946981292218
+  rhythmicContrast: 0.5434995959512889
+purpose: []
